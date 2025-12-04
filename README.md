@@ -1,4 +1,7 @@
 # bone-age-project
+
+Taken from: https://www.kaggle.com/datasets/kmader/rsna-bone-age/data
+
 RSNA Bone Age
 About Dataset
 Context
