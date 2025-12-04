@@ -4,7 +4,11 @@ Taken from: https://www.kaggle.com/datasets/kmader/rsna-bone-age/data
 
 Official page: https://www.rsna.org/artificial-intelligence/ai-image-challenge/rsna-pediatric-bone-age-challenge-2017
 
-Transfer Learning and Attention Based Approach: https://noiselab.ucsd.edu/ECE228_2018/Reports/Report6.pdf
+Transfer Learning and Attention Based Approach: https://noiselab.ucsd.edu/ECE228_2018/Reports/Report6.pdf  / Mean Absolute Error : 9.82/10.75 months for male and female 
+
+Residual Attention Based Approach: https://arxiv.org/pdf/1901.05876  / Mean Absolute Error : 7.38
+
+multi-granularity and multi-attention feature encoding :https://pmc.ncbi.nlm.nih.gov/articles/PMC11320534/pdf/qims-14-08-5902.pdf  / Mean Absolute Error : ~ 4.0
 
 RSNA Bone Age
 About Dataset
