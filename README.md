@@ -1,7 +1,10 @@
 # bone-age-project
 
 Taken from: https://www.kaggle.com/datasets/kmader/rsna-bone-age/data
+
 Official page: https://www.rsna.org/artificial-intelligence/ai-image-challenge/rsna-pediatric-bone-age-challenge-2017
+
+Transfer Learning and Attention Based Approach: https://noiselab.ucsd.edu/ECE228_2018/Reports/Report6.pdf
 
 RSNA Bone Age
 About Dataset
